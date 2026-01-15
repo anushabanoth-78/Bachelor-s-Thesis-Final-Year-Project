@@ -1,56 +1,93 @@
 <h1>Top Professors & Universities – 2025</h1>
 
-  <p>
-    A responsive and interactive <strong>educational web project</strong> showcasing the
-    <strong>Top Universities and influential professors across the world and India (2025)</strong>.
-    This project highlights global academic excellence, research leadership, and institutional
-    impact through a clean UI and structured navigation.
-  </p>
+<p>
+A responsive and interactive <strong>educational web project</strong> showcasing
+the <strong>top universities and influential professors across the world and India (2025)</strong>.
+The project highlights global academic excellence, research leadership, and
+institutional impact through a clean and structured user interface.
+</p>
 
-  <hr>
+<hr>
 
-  <h2>Project Overview</h2>
-  <p>This website presents:</p>
-  <ul>
-    <li>Top 10 Universities in the World (2025)</li>
-    <li>🇮🇳 Top Indian Universities (IITs & NITs)</li>
-    <li> Dedicated pages for professors and faculty</li>
-    <li> Research & academic achievements section</li>
-  </ul>
+<h2>Project Overview</h2>
+<p>This website includes:</p>
+<ul>
+  <li>Top 10 Universities in the World (2025)</li>
+  <li>Top Indian Universities (IITs & NITs)</li>
+  <li>Dedicated pages for professors and faculty</li>
+  <li>Research and academic achievements section</li>
+</ul>
 
-  <p>
-    Each university entry is expandable and links to a separate detailed page containing
-    professor information.
-  </p>
+<p>
+Each university entry is expandable and provides navigation to a detailed page
+containing professor information.
+</p>
 
-  <hr>
+<hr>
 
-  <h2>Features</h2>
-  <ul>
-    <li> Responsive layout (desktop & mobile friendly)</li>
-    <li> Smooth scrolling navigation</li>
-    <li> Expand/collapse university sections (JavaScript toggle)</li>
-    <li> Modular folder structure for scalability</li>
-    <li> Clean UI with semantic HTML5</li>
-    <li> Easy navigation between universities and professors</li>
-    <li> Footer with contact and author details</li>
-  </ul>
+<h2>Features</h2>
+<ul>
+  <li>Responsive layout for desktop and mobile devices</li>
+  <li>Smooth scrolling navigation</li>
+  <li>Expandable university sections using JavaScript</li>
+  <li>Modular and well-organized folder structure</li>
+  <li>Clean UI using semantic HTML5</li>
+  <li>Easy navigation between universities and faculty pages</li>
+</ul>
 
-  <hr>
+<hr>
 
-  <h2> Technologies Used</h2>
-  <ul>
-    <li><strong>HTML5</strong> – Structure and content</li>
-    <li><strong>CSS3</strong> – Styling and layout</li>
-    <li><strong>JavaScript (Vanilla)</strong> – Interactivity & smooth scrolling</li>
-    <li><strong>Font Awesome</strong> – Icons</li>
-    <li><strong>Responsive Web Design</strong> principles</li>
-  </ul>
+<h2>📸 Project Outputs</h2>
 
-  <hr>
+<h3>🏠 Homepage & Navigation</h3>
+<p>
+The homepage features a professional navigation bar with smooth scrolling
+and a clean academic theme highlighting global universities.
+</p>
+<img src="home_page_images/home1.jpg" alt="Homepage Screenshot" width="100%">
 
-  <h2>📂 Project Structure</h2>
-  <pre>
+<hr>
+
+<h3>🌍 Top 10 Universities in the World</h3>
+<p>
+This section displays the top global universities using expandable cards
+that show ranking, location, and country details.
+</p>
+<img src="home_page_images/world-universities.png" alt="World Universities Section" width="100%">
+
+<hr>
+
+<h3>📂 Expandable University View</h3>
+<p>
+Each university card expands dynamically using JavaScript to reveal
+additional details and links to professor pages.
+</p>
+<img src="home_page_images/expanded-university.png" alt="Expanded University View" width="100%">
+
+<hr>
+
+<h3>🇮🇳 IIT Madras – Faculty Page</h3>
+<p>
+A dedicated faculty page highlighting Rashtriya Vigyan Puraskar 2025 awardees
+with profile cards and biography sections.
+</p>
+<img src="home_page_images/iit-madras-faculty.png" alt="IIT Madras Faculty Page" width="100%">
+
+<hr>
+
+<h2>Technologies Used</h2>
+<ul>
+  <li><strong>HTML5</strong> – Page structure and content</li>
+  <li><strong>CSS3</strong> – Styling and layout design</li>
+  <li><strong>JavaScript (Vanilla)</strong> – Interactivity and UI behavior</li>
+  <li><strong>Font Awesome</strong> – Icons</li>
+  <li><strong>Responsive Web Design</strong> principles</li>
+</ul>
+
+<hr>
+
+<h2>Project Structure</h2>
+<pre>
 Top-Professors-Universities/
 │
 ├── index.html
@@ -58,63 +95,59 @@ Top-Professors-Universities/
 ├── README.md
 │
 ├── home_page_images/
-│   └── home1.jpg
+│   ├── home1.jpg
+│   ├── world-universities.png
+│   ├── expanded-university.png
+│   └── iit-madras-faculty.png
 │
 ├── 1_MIT/
-│   └── MIT.html
 ├── 2_Stanford_University/
-│   └── stanford_University.html
 ├── 3_Harvard_University/
-│   └── Harvard University.html
 ├── 4_Cambridge/
-│   └── Cambridge University.html
 ├── 5_Oxford/
-│   └── Oxford.html
 ├── 6_California/
-│   └── California.html
 ├── 7_ETH_Zurich/
-│   └── ETH Zurich.html
 ├── 8_Singapore/
-│   └── Singapore.html
 ├── 9_Tokyo/
-│   └── Tokyo.html
 ├── 10_IISC_Bangalore/
-│   └── Bangalore.html
 │
-├── Indian_Universities/
-│   ├── IIT_Bombay/
-│   ├── IIT_Delhi/
-│   ├── IIT_Madras/
-│   ├── IIT_Kharagpur/
-│   ├── IIT_Kanpur/
-│   ├── IIT_Roorkee/
-│   ├── NIT_Trichy/
-│   ├── NIT_Karnataka/
-│   └── NIT_Warangal/
-  </pre>
+└── Indian_Universities/
+    ├── IIT_Bombay/
+    ├── IIT_Delhi/
+    ├── IIT_Madras/
+    ├── IIT_Kharagpur/
+    ├── IIT_Kanpur/
+    ├── IIT_Roorkee/
+    ├── NIT_Trichy/
+    ├── NIT_Karnataka/
+    └── NIT_Warangal/
+</pre>
 
-  <hr>
+<hr>
 
-  <h2> How to Run the Project</h2>
-  <ol>
-    <li>Download or clone the repository</li>
-    <li>Open the project folder</li>
-    <li>Double-click <code>index.html</code></li>
-  </ol>
+<h2>How to Run the Project</h2>
+<ol>
+  <li>Download or clone the repository</li>
+  <li>Open the project folder</li>
+  <li>Open <code>index.html</code> in a web browser</li>
+</ol>
 
-  <p><strong>OR</strong></p>
-  <p>Open with <strong>Live Server</strong> in VS Code for best experience.</p>
-  <p>No backend or database required.</p>
+<p><strong>OR</strong></p>
+<p>
+Use <strong>Live Server</strong> in VS Code for a better development experience.
+</p>
 
-  <hr>
+<p>No backend or database configuration is required.</p>
 
-  <h2> Learning Outcomes</h2>
-  <ul>
-    <li>Hands-on experience with frontend web development</li>
-    <li>Structuring a multi-page academic website</li>
-    <li>JavaScript DOM manipulation</li>
-    <li>UI/UX design for informational platforms</li>
-    <li>Real-world project suitable for portfolio & placements</li>
-  </ul>
+<hr>
+
+<h2>Learning Outcomes</h2>
+<ul>
+  <li>Hands-on experience with frontend web development</li>
+  <li>Designing and structuring a multi-page website</li>
+  <li>JavaScript DOM manipulation</li>
+  <li>UI/UX design for informational platforms</li>
+  <li>Portfolio-ready academic project</li>
+</ul>
 
 
