@@ -3,8 +3,8 @@
 <p>
 A responsive and interactive <strong>educational web project</strong> showcasing
 the <strong>top universities and influential professors across the world and India (2025)</strong>.
-The project highlights global academic excellence, research leadership, and
-institutional impact through a clean and structured user interface.
+This project highlights global academic excellence, research leadership, and
+institutional impact through a clean and well-structured user interface.
 </p>
 
 <hr>
@@ -20,7 +20,7 @@ institutional impact through a clean and structured user interface.
 
 <p>
 Each university entry is expandable and provides navigation to a detailed page
-containing professor information.
+containing professor and faculty information.
 </p>
 
 <hr>
@@ -31,7 +31,7 @@ containing professor information.
   <li>Smooth scrolling navigation</li>
   <li>Expandable university sections using JavaScript</li>
   <li>Modular and well-organized folder structure</li>
-  <li>Clean UI using semantic HTML5</li>
+  <li>Clean user interface using semantic HTML5</li>
   <li>Easy navigation between universities and faculty pages</li>
 </ul>
 
@@ -44,12 +44,14 @@ containing professor information.
 The homepage features a professional navigation bar with smooth scrolling
 and a clean academic theme highlighting global universities.
 </p>
+<img src="home_page_images/home1.jpg" alt="Homepage Screenshot" width="100%">
+
 <hr>
 
 <h3>🌍 Top 10 Universities in the World</h3>
 <p>
 This section displays the top global universities using expandable cards
-that show ranking, location, and country details.
+that present ranking, location, and country details.
 </p>
 <img src="home_page_images/world-universities.png" alt="World Universities Section" width="100%">
 
@@ -66,8 +68,9 @@ additional details and links to professor pages.
 
 <h3>🇮🇳 IIT Madras – Faculty Page</h3>
 <p>
-A dedicated faculty page highlighting Rashtriya Vigyan Puraskar 2025 awardees
-with profile cards and biography sections.
+A dedicated faculty page highlighting distinguished professors and
+Rashtriya Vigyan Puraskar 2025 awardees, displayed using profile cards
+with brief biography sections.
 </p>
 <img src="home_page_images/iit-madras-faculty.png" alt="IIT Madras Faculty Page" width="100%">
 
@@ -147,5 +150,6 @@ Use <strong>Live Server</strong> in VS Code for a better development experience.
   <li>UI/UX design for informational platforms</li>
   <li>Portfolio-ready academic project</li>
 </ul>
+
 
 
