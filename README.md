@@ -44,8 +44,6 @@ containing professor information.
 The homepage features a professional navigation bar with smooth scrolling
 and a clean academic theme highlighting global universities.
 </p>
-<img src="home_page_images/home1.jpg" alt="Homepage Screenshot" width="100%">
-
 <hr>
 
 <h3>🌍 Top 10 Universities in the World</h3>
