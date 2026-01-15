@@ -53,7 +53,7 @@ and a clean academic theme highlighting global universities.
 This section displays the top global universities using expandable cards
 that present ranking, location, and country details.
 </p>
-<img src="home_page_images/world-universities.png" alt="World Universities Section" width="100%">
+
 
 <hr>
 
