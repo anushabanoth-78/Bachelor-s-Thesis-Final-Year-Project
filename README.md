@@ -1,4 +1,4 @@
-<h1>🎓 Top Professors & Universities – 2025</h1>
+<h1>Top Professors & Universities – 2025</h1>
 
   <p>
     A responsive and interactive <strong>educational web project</strong> showcasing the
@@ -9,13 +9,13 @@
 
   <hr>
 
-  <h2>🌐 Project Overview</h2>
+  <h2>Project Overview</h2>
   <p>This website presents:</p>
   <ul>
-    <li>🌍 Top 10 Universities in the World (2025)</li>
+    <li>Top 10 Universities in the World (2025)</li>
     <li>🇮🇳 Top Indian Universities (IITs & NITs)</li>
-    <li>👩‍🏫 Dedicated pages for professors and faculty</li>
-    <li>📊 Research & academic achievements section</li>
+    <li> Dedicated pages for professors and faculty</li>
+    <li> Research & academic achievements section</li>
   </ul>
 
   <p>
@@ -25,20 +25,20 @@
 
   <hr>
 
-  <h2>✨ Features</h2>
+  <h2>Features</h2>
   <ul>
-    <li>✅ Responsive layout (desktop & mobile friendly)</li>
-    <li>✅ Smooth scrolling navigation</li>
-    <li>✅ Expand/collapse university sections (JavaScript toggle)</li>
-    <li>✅ Modular folder structure for scalability</li>
-    <li>✅ Clean UI with semantic HTML5</li>
-    <li>✅ Easy navigation between universities and professors</li>
-    <li>✅ Footer with contact and author details</li>
+    <li> Responsive layout (desktop & mobile friendly)</li>
+    <li> Smooth scrolling navigation</li>
+    <li> Expand/collapse university sections (JavaScript toggle)</li>
+    <li> Modular folder structure for scalability</li>
+    <li> Clean UI with semantic HTML5</li>
+    <li> Easy navigation between universities and professors</li>
+    <li> Footer with contact and author details</li>
   </ul>
 
   <hr>
 
-  <h2>🛠️ Technologies Used</h2>
+  <h2> Technologies Used</h2>
   <ul>
     <li><strong>HTML5</strong> – Structure and content</li>
     <li><strong>CSS3</strong> – Styling and layout</li>
@@ -95,7 +95,7 @@ Top-Professors-Universities/
 
   <hr>
 
-  <h2>🚀 How to Run the Project</h2>
+  <h2> How to Run the Project</h2>
   <ol>
     <li>Download or clone the repository</li>
     <li>Open the project folder</li>
@@ -108,7 +108,7 @@ Top-Professors-Universities/
 
   <hr>
 
-  <h2>🎯 Learning Outcomes</h2>
+  <h2> Learning Outcomes</h2>
   <ul>
     <li>Hands-on experience with frontend web development</li>
     <li>Structuring a multi-page academic website</li>
