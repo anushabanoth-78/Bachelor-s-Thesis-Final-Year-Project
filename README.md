@@ -158,10 +158,7 @@ Use <strong>Live Server</strong> in VS Code for a better development experience.
 Indian Institute of Technology Goa
 </p>
 
-<p>
-Passionate about <b>Machine Learning</b>, <b>AI</b>, and building real-world data-driven applications.<br>
-This <b>Fake News Detector</b> project demonstrates end-to-end ML pipeline development including data preprocessing, model training, evaluation, and deployment with Streamlit.
-</p>
+>
 
 <p>
 🔗 <b>GitHub:</b> 
@@ -176,8 +173,8 @@ https://github.com/anushabanoth-78
 
 <p>
 📧 <b>Email:</b> 
-<a href="mailto:banoth.anusha.22031@iitgoa.ac.in">
-banoth.anusha.22031@iitgoa.ac.in
+<a href="mailto:banothanusha900@gmail.com">
+  banothanusha900@gmail.com
 </a>
 </p>
 
