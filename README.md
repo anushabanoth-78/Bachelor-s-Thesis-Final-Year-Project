@@ -151,5 +151,39 @@ Use <strong>Live Server</strong> in VS Code for a better development experience.
   <li>Portfolio-ready academic project</li>
 </ul>
 
+<h2>👩‍💻 Banoth Anusha</h2>
 
-<h1>Banoth Anusha</h2>
+<p>
+<b>Final Year B.Tech — Computer Science & Engineering</b><br>
+Indian Institute of Technology Goa
+</p>
+
+<p>
+Passionate about <b>Machine Learning</b>, <b>AI</b>, and building real-world data-driven applications.<br>
+This <b>Fake News Detector</b> project demonstrates end-to-end ML pipeline development including data preprocessing, model training, evaluation, and deployment with Streamlit.
+</p>
+
+<p>
+🔗 <b>GitHub:</b> 
+<a href="https://github.com/anushabanoth-78" target="_blank">
+https://github.com/anushabanoth-78
+</a>
+</p>
+
+<p>
+📍 <b>Location:</b> Goa
+</p>
+
+<p>
+📧 <b>Email:</b> 
+<a href="mailto:banoth.anusha.22031@iitgoa.ac.in">
+banoth.anusha.22031@iitgoa.ac.in
+</a>
+</p>
+
+<hr>
+
+<p align="center">
+  ⬆️ <a href="#table-of-contents"><b>Back to Top</b></a>
+</p>
+
