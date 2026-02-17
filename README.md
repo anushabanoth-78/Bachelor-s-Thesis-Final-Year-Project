@@ -188,7 +188,4 @@ https://github.com/anushabanoth-78
 
 <hr>
 
-<p align="center">
-  ⬆️ <a href="#table-of-contents"><b>Back to Top</b></a>
-</p>
 
