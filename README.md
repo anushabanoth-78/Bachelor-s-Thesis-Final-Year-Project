@@ -1,5 +1,13 @@
 <h1>Top Professors & Universities – 2025</h1>
 
+<h2>🚀 Live Demo</h2>
+
+<p align="center">
+  <a href="https://anushabanoth-78.github.io/Bachelor-s-Thesis-Final-Year-Project/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
 <p>
 A responsive and interactive <strong>educational web project</strong> showcasing
 the <strong>top universities and influential professors across the world and India (2025)</strong>.
