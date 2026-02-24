@@ -1,6 +1,6 @@
 <h1>Top Professors & Universities – 2025</h1>
 
-<h2>🚀 Live Demo watch</h2>
+<h2>🚀 Live Demo </h2>
 
 <p align="center">
   <a href="https://anushabanoth-78.github.io/Bachelor-s-Thesis-Final-Year-Project/" target="_blank">
